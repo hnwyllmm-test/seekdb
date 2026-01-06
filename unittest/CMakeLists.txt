@@ -1,4 +1,5 @@
 function(ob_unittest case)
+  hello
   if(ARGC EQUAL 1)
     add_executable(${case} ${case}.cpp)
   else()

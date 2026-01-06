@@ -1,5 +1,6 @@
 # Contributing to OceanBase seekdb
 
+test
 First off, thank you for considering contributing to OceanBase seekdb! We value your time and effort.
 
 The following are a set of guidelines for contributing to OceanBase seekdb. Following these guidelines makes contributing to this project easy and transparent. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.

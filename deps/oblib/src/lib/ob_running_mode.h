@@ -14,6 +14,7 @@
  * limitations under the License.
  */
 
+test
 #ifndef OB_RUNNING_MODE_H_
 #define OB_RUNNING_MODE_H_
 
